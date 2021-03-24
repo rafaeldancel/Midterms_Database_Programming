@@ -1,0 +1,4 @@
+SELECT * FROM INFORMATION_SCHEMA.TABLES;
+SELECT * FROM employeeList;
+SELECT * FROM Department;
+DELETE FROM employeeList WHERE LastName = 'Herro';
